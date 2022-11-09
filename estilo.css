@@ -28,7 +28,7 @@ div{
     margin: 0 4px;
     border-radius: 20px;
     color: yellow;
-    text-shadow: 0 0 15px yellow, 00 25px yellow;
+    text-shadow: 30 30 15px yellow, 30 25px yellow;
     animation: animate 1.5s linear infinite;
 }
 
